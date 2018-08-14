@@ -1,0 +1,2 @@
+# rails_practice
+Railsに関する知見を投稿するリポジトリ
